@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://www.blogger.com/profile/08561401987341895757](https://www.blogger.com/profile/08561401987341895757)
 
-- 💬 Ask me about **Open-source, webdev, flutter,Kubernetes, Cloud**
+- 💬 Ask me about **Open-source, webdev, flutter, Kubernetes, Cloud**
 
 - 📫 How to reach me **palakbhogra2@gmail.com**
 
