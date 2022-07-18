@@ -25,7 +25,7 @@
 <a href="https://twitter.com/palakb1557" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="palakb1557" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/palak-bhogra-8b92791bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palak-bhogra-8b92791bb" height="30" width="40" /></a>
 <a href="https://fb.com/palak.bhogra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="palak.bhogra" height="30" width="40" /></a>
-<a href="https://instagram.com/sparklinghell.22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sparklinghell.22" height="30" width="40" /></a>
+<a href="https://instagram.com/palakintechland/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sparklinghell.22" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/palakb_22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="palakb_22" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/palakbhogra222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="palakbhogra222" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/palakbhogra222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="palakbhogra222" height="30" width="40" /></a>
@@ -39,7 +39,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/palakbhogra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="palakbhogra" /></a></p><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=palak2002&show_icons=true&locale=en&layout=compact" alt="palak2002" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=palak2002&show_icons=true&locale=en&layout=compact" alt="palak2002" /></p><br><br><br><br><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=palak2002&show_icons=true&locale=en" alt="palak2002" /></p>
 
