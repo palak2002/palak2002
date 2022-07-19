@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Palak Bhogra</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FPranali-5&psig=AOvVaw25EIvpCsVZmUkTuhjcICBB&ust=1646157803558000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjmqe79ovYCFQAAAAAdAAAAABAJ"
+
+<p align="center">
+  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=Full+Stack+Developer;Cpp+Programmer%20|%20Machine+Learning+Enthusiast%20;Content%20Creator%20;Coder+by+heart+and+by+profession%20|+Blogger&center=true&width=500&height=50"></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palak2002&label=Profile%20views&color=0e75b6&style=flat" alt="palak2002" /> </p>
 
