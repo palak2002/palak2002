@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Open-source, webdev, flutter, Kubernetes, Cloud**
 
-- 📫 How to reach me **palakbhogra2@gmail.com**
+- 📫 How to reach me **palakb.softwaredev@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1yfp1_dM1h9HjP01DctGQNsjDM8jjxWWW/view?usp=sharing](https://drive.google.com/file/d/1yfp1_dM1h9HjP01DctGQNsjDM8jjxWWW/view?usp=sharing)
 
