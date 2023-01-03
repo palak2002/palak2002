@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Palak Bhogra</h1>
+<h1 align="center">Hello 👋, I'm Palak Bhogra</h1>
 
 <p align="center">
   <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=Full+Stack+Developer;Cpp+Programmer%20|%20Machine+Learning+Enthusiast%20;Content%20Creator%20;Coder+by+heart+and+by+profession%20|+Blogger&center=true&width=500&height=50"></a>
